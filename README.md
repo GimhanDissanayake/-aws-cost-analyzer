@@ -1,1 +1,1 @@
-# -aws-cost-analyzer
+# aws-cost-analyzer
